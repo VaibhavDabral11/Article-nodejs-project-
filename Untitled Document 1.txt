@@ -1,0 +1,40 @@
+The project have 5
+function: -
+1. read == get      (Api: 1)
+2. create == post   (Api: 2(with postman input))
+{
+    "id":3,
+    "Title": "All about stock",
+    "Author": "Ankur Jha",
+    "Content":"This book is based on Stock Market ",
+    "Rating":8
+}
+
+
+
+3. update == put    (Api: 3)
+{
+    "id":3,
+    "Author":"Ankur Kumar"
+}
+
+
+4. update == patch  (Api: 4)
+{
+     "id":1,
+    "Author":"Vaibhav Dabral"
+}
+
+
+5. Delete == delete (Api: 5)
+{
+    "id":23
+}
+
+6. Deleteall == delete (Api: 6)
+
+
+
+
+manually: 
+
