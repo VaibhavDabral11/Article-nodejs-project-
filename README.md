@@ -2,7 +2,7 @@
 This project is based on RESTfull Api .
 ## Dependencies for this project.
 -- To run this project install these dependencies that are given bellow :-
-1. install node using this command in terminal.
+1. Install node using this command in terminal.
 ```ruby
    $ sudo apt install nodejs
 ```
@@ -12,32 +12,32 @@ This project is based on RESTfull Api .
    $ npm init 
 ```
 
-3. install prisma using this command in terimal.
+3. Install prisma using this command in terimal.
 ```ruby 
    $ npm install prisma --save-dev
 ```
 
-4. install PrismaClient using this command in terimal.
+4. Install PrismaClient using this command in terimal.
 ```ruby 
    $ npm install @prisma/client
 ```
 
-5. install mysql using this command in terimal.
+5. Install mysql using this command in terimal.
 ```ruby 
    $ npm install mysql
 ```
 
-6. install squlite using this command in terimal.
+6. Install squlite using this command in terimal.
 ```ruby 
    $ npx prisma init --datasource-provider sqlite
 ```
 
-7. install typescript using this command in terimal.
+7. Install typescript using this command in terimal.
 ```ruby $ npm init -y
    $ npm install typescript ts-node @types/node --save-dev
  ```
  
- 8. install mysql workbench using this website.
+ 8. Install mysql workbench using this website.
  ```ruby
     https://www.mysql.com/products/workbench/
  ```
