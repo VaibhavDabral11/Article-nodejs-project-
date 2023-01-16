@@ -1,7 +1,7 @@
 # Article(nodejs-project)
 This project is based on RESTfull Api .
 ## Dependencies for this project.
--- To run this project install these dependencies that are given bellow :-
+### To create this project install these dependencies in your system by following these commands given bellow :-
 1. Install node using given bellow command in terminal.
 ```ruby
    $ sudo apt install nodejs
