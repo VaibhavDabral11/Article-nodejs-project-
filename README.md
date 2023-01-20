@@ -37,13 +37,17 @@ This project is based on RESTfull Api .
    $ npm init -y
    $ npm install typescript ts-node @types/node --save-dev
  ```
+ 8. Create tsconfig using given bellow command in terminal .
+ ```ruby
+    $ tsc --init
+ ```
  
- 8. Install mysql workbench follow given link .
+ 9. Install mysql workbench follow given link .
  ```ruby
     https://www.mysql.com/products/workbench/
  ```
  
- 9. For installing mysql in linux , follow this docs .
+ 10. For installing mysql in linux , follow this docs .
  ```ruby
     https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install-linux-quick.html
  ```
